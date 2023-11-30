@@ -1,5 +1,15 @@
 # DPfAV - Diffusion Policy for Autonmous Vehicles
 
+<div style="display: flex; justify-content: center;">
+    <img src="figures/gt_vs_pred_1-1.png" alt="Description of image 1" style="width:50%;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="figures/denoising_60-1.png" alt="Description of image 1" style="width:30%;">
+    <img src="figures/denoising_90-1.png" alt="Description of image 2" style="width:30%;">
+    <img src="figures/denoising_99-1.png" alt="Description of image 3" style="width:30%;">
+</div>
+
 
 ## Description
 The DPfAV is based on the work done by [Chi](https://github.com/real-stanford/diffusion_policy/tree/main) which is implemented for robot arms. This implementation simply transfers this model over to the domain of autonomous driving.
