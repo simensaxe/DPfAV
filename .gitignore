@@ -1,0 +1,6 @@
+*.pt
+*.pkl
+*.out
+*.slurm
+**/__pycache__/
+
