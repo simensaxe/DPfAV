@@ -25,7 +25,7 @@ The model is trained on the [nuScenes dataset](https://www.nuscenes.org/nuscenes
 
 ## Results
 
-* Open-loop planning results on [nuScenes](https://github.com/hustvl/VAD/tree/main). The results in the table is colletcted from [VAD](https://github.com/hustvl/VAD/tree/main).
+* Open-loop planning results on [nuScenes](https://github.com/hustvl/VAD/tree/main). The results in the table are colletcted from [VAD](https://github.com/hustvl/VAD/tree/main).
 
 | Method   | L2 (m) 1s | L2 (m) 2s | L2 (m) 3s | Col. (%) 1s | Col. (%) 2s | Col. (%) 3s |
 |----------|-----------|-----------|-----------|-------------|-------------|-------------|
